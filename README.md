@@ -27,7 +27,7 @@ API Automation project for QA Tech Exercise created with Visual Studio Code and 
 
 - Make sure you already have the version of node include npm
 
-- Open command prompt on the api-tests folder and write this code:
+- Open command prompt on the api-automation-exercise parent folder and write this code:
 
   `npm init -y`
 
