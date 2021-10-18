@@ -31,7 +31,7 @@ API Automation project for QA Tech Exercise created with Visual Studio Code and 
 
   `npm init -y`
 
-  `npm i --save dev supertest mocha @babel/cli @babel/core @babel/node @babel/register @babel/preset-env`
+  `npm i --save-dev supertest mocha @babel/cli @babel/core @babel/node @babel/register @babel/preset-env`
 
 - Open or import the project to Visual Studio Code 1.61 or above
 
