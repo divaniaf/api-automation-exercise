@@ -25,10 +25,6 @@ API Automation project for QA Tech Exercise created with Visual Studio Code and 
 
 ## Installing
 
-- Download the api-tests.zip file
-
-- Extract the file using 7zip or etc
-
 - Make sure you already have the version of node include npm
 
 - Open command prompt and write this code:
@@ -42,8 +38,6 @@ API Automation project for QA Tech Exercise created with Visual Studio Code and 
 - Create new terminal and write this code to execute:
 
   `npm test`
-
-!! Please download the .zip file because I can't upload unzipped file cause it to large !!
 
 
 
